@@ -28,8 +28,8 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 370,
-        "y": 200,
+        "x": 350,
+        "y": 220,
         "wires": [
             [
                 "e189bfc6de0c548f"
@@ -49,8 +49,8 @@
         "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 630,
-        "y": 200,
+        "x": 610,
+        "y": 220,
         "wires": []
     }
 ]
